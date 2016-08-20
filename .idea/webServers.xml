@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9ab72aa8-e104-4590-86e4-64cef3791d72" name="ftp://honeycode.com.br/" url="http://honeycode.com.br">
+        <fileTransfer host="ftp.honeycode.com.br" port="21" rootFolder="/public_html" password="dfcbdfc7dfcfdf98df98dfc2dfc5dfd9dfdedfc3dfc4dfcddfcfdfd8" username="u449066602">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
